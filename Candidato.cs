@@ -7,7 +7,7 @@ public class Candidato
     public int Numero { get; set; }
     public int Votos{ get; private set; } = 0;
 
-    public void ContagemVotos()
+    public void ReceberVotos()
     {
         Votos++;
     }

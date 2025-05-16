@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrnaConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+032dee458703ca1b4d71f1fe3aa86adb4fbcaced")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrnaConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrnaConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
